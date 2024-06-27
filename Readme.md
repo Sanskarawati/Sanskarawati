@@ -4,9 +4,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarawati&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarawati" /> </p>
-<img align="right" alt="coder" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarawati" alt="sanskarawati" /></a> </p>
 
+<img align="right" alt="coder" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<br>
 
 - 🌱 I’m currently learning **Deep Learning**
 
@@ -33,7 +35,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/sanskarnawq?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/sanskarnawq?new=1" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarawati&show_icons=true&locale=en&layout=compact" alt="sanskarawati" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarawati&show_icons=true&locale=en&layout=compact" alt="sanskarawati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskarawati&show_icons=true&locale=en" alt="sanskarawati" /></p>
 
